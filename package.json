@@ -1,0 +1,17 @@
+{
+  "name": "express005",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js",
+    "go": "nodemon index.js"
+  },
+  "keywords": [],
+  "author": "Bruce Chen",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "express": "^4.21.0"
+  }
+}
